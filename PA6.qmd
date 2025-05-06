@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Anson Wu, Ellie Pearson, Ryan Vo"
 format: html
 editor: visual
 embed-resources: true
